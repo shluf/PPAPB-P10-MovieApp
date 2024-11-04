@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
             Movie(
                 2,
                 "Dosa Musyrik",
-                "https://unsplash.com/photos/a-bunch-of-balloons-that-are-shaped-like-email-7NT4EDSI5Ok",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWp-Z8mpq7LlEP285sw-nYrmWQYha4y7DA&s",
                 "1h 32m",
                 "D17+",
                 "Horror",
@@ -75,8 +75,8 @@ class MainActivity : AppCompatActivity() {
             Movie(
                 4,
                 "Fufufafa The Series",
-                "https://akcdn.detik.net.id/community/media/visual/2024/01/16/film-action-terbaru-dari-hollywood-kingdom-of-the-planet-of-the-apes-2024.jpeg",
-                "1h 32m",
+                "https://asset-2.tstatic.net/wartakota/foto/bank/images/Gibran-Pulang-ke-Solo.jpg",
+                "4h 32m",
                 "D88+",
                 "Action, Drama",
                 "A seasoned investigator and a young rookie are forced to team up to solve a series of high-profile cases. Along the way, they confront their own personal demons and find themselves in increasingly dangerous situations."
